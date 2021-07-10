@@ -9,8 +9,10 @@ $servername = $MYSQL_HOST;
 $username = $MYSQL_USER;
 $password = $MYSQL_PASSWORD;
 
+
 // Create connection
-$conn = new mysqli($servername, $username, $password);
+// $conn = new mysqli($servername, $username, $password);
+$conn = mysqli_connect($servername, $username, $password);
 
 // Check connection
 if ($conn->connect_error) {
