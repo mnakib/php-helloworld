@@ -8,7 +8,6 @@
 echo "Hello World! php version is " . PHP_VERSION . "\n";
 ?>
   
-  <h2><i>Change done successfully</i></h2>
 
 </body>
 </html> 
