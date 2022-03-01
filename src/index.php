@@ -6,8 +6,13 @@
 
 <?php
 echo "Hello World! php version is " . PHP_VERSION . "\n";
-echo "A change is a coming!\n";
+echo "This is a change that has been done in my PHP code!\n";
+  
+  
+echo "Let's see how S2I initiates the second build!\n";
 ?>
+  
+  
   
 
 </body>
