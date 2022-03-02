@@ -5,9 +5,13 @@
 <h1>Connection script to a database</h1>
 
 <?php
-$servername = $MYSQL_SERVICE_HOST;
-$username = $MYSQL_USER;
-$password = $MYSQL_PASSWORD;
+#$servername = $MYSQL_SERVICE_HOST;
+#$username = $MYSQL_USER;
+#$password = $MYSQL_PASSWORD;
+
+$servername = 10.217.4.45;
+$username = user;
+$password = pass;
 
 
 // Create connection
