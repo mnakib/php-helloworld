@@ -7,7 +7,9 @@
 <?php
 echo "Hello World! php version is " . PHP_VERSION . "\n";
   
-echo "This is a change in my PHP application";
+echo "This is a change in my PHP application"; <br />
+  
+echo "This application was created from the OCP Web UI";
 
 ?>
   
