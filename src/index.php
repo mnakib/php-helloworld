@@ -9,7 +9,7 @@ echo "Hello World! php version is " . PHP_VERSION . "\n";
   
 echo "Hello. This is an application deployed with S2I by Abdulah\n";
   
-echo "This is the third build\n";
+echo "This is an update that is done to test upgrading a Source2Image application\n";
 
   
 
